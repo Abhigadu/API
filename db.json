@@ -9,8 +9,9 @@
     "name": "typicode"
   }
   "Movies": {
-  "id": 1,
-  "Title": "Jagadekaveerudu AthilokaSundari",
-  "Hero": "Chiranjeevi"
-  "Heroine": "Sridevi"
+    "id": 1,
+    "Title": "Jagadekaveerudu AthilokaSundari",
+    "Hero": "Chiranjeevi"
+    "Heroine": "Sridevi"
+  }
 }
