@@ -8,10 +8,18 @@
   "profile": {
     "name": "typicode"
   },
-  "movies": {
+  "movies": [
+  {
     "id": 1,
     "Title": "Jagadekaveerudu AthilokaSundari",
     "Hero": "Chiranjeevi",
     "Heroine": "Sridevi"
+  },
+  {
+    "id": 2,
+    "Title": "Tholi Prema",
+    "Hero": "Pawan Kalyan",
+    "Heroine": "Keerthi Reddy"
   }
+  ]
 }
